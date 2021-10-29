@@ -1,0 +1,5 @@
+requests
+bs4
+configparser
+datetime
+json
